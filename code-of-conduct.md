@@ -1,5 +1,17 @@
-# ⚖ Code of Conduct
+# Code of Conduct
 
-Anti-discrimination and harassment policy.
+ChaosDAO is a “multi-ape protocol” comprised of members who support, promote, invest, and build projects within the Dotsama ecosystem. Each and every member of ChaosDAO has been invited due to the value he or she brings, and all members shall be treated with dignity and respect. Being a member within ChaosDAO is a privilege regardless of rank, and membership can be withdrawn due to violations of the Code of Conduct contained herein. Should any member violate these norms, he or she will be subject to escalating penalties, including removal from ChaosDAO.
 
-Work in progress.
+* Discrimination – under no circumstance will discrimination of any type (e.g. political afflitiation, gender identification, sexual orientation, religious beliefs, age, etc) be permitted among members within ChaosDAO. If any given member believes that s/he is being discriminated against for any reason, please report the transgression to any DAOist.
+
+* Harassment/Bullying – will not be tolerated at all. Should any member of our organization feel another member is putting undue pressure on or otherwise intimidating her or him for any reason, please report this incident to a DAOist.
+
+	Although ChaosDAO is not a place of employment and does not require many other elements of a typical Code of Conduct, this is not an exhaustive list. Should any member believe she or he has been unfairly targeted or treated by a fellow member, please report said behavior to a DAOist. If there is not a clear guideline in place, a proposal can be made to amend this section of our handbook. Below is a list of escalation actions for those who flagrantly flaunt ChaosDAO’s code of conduct. Ultimately, any and all actions will be handled by the core group of DAOists.
+
+* First infraction – the member violating the code of conduct will receive a written warning via DMs from a DAOist after a decision has been made as to whether or not the infraction warrants said warning. DAOists shall strive to bring harmony between the two parties prior to escalation, but if it becomes necessary a warning will be issued to the offending member.
+
+* Second infraction – the member who has already received a warning and continues to engage in similar behavior(s) toward–regardless of length of time between infractions–shall have access to other channels restricted and only allowed to participate in conversations contained within the lounge (this is up for discussion) for a period of two weeks. If the member has not left the server of his/her own accord and has demonstrated better behavior toward others during the probationary period, his / her rights of access shall be restored, regardless of rank or role.
+
+* Third infraction – the member is permanently removed from the DAO.
+
+
