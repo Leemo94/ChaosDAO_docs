@@ -18,3 +18,4 @@ Scouts use majority votes to approve invites. Each invite proposal is discussed 
 ![image](https://user-images.githubusercontent.com/89027356/201498517-3052175e-b865-443e-8b4f-cc795268c524.png)
 
 ![image](https://user-images.githubusercontent.com/89027356/201498522-cd8acfbe-da7f-4c03-a366-6b51563c3ac8.png)
+

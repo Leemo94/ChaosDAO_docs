@@ -29,3 +29,14 @@ Instead of abrupt departures, ```DAOists``` have created a "jail" channel. If a 
 ## Reinstatement of Frens
 For anyone who has been removed from the server due to inactivity (or voluntarily/accidentally left), they may be reinstated by contacting one of the ```DAOists```. As with all other promotions, a majority vote must pass to re-invite them.
 
+## Put a Ring On It
+Within ChaosDAO, we apply a special colored ring to our avatar images in order to visually indicate our membership in the organization. Each rank (Fren, Regular, DAOist) has a slightly different colored ring to apply, so whenever you are promoted it's an opportunity to upgrade your ring to indicate your new status. Use of ringed images in external social media is encouraged so that people outside of ChaosDAO are aware that we work together.
+
+Stano created an image modifier that can easily apply a ring to any image you want:
+https://notstano-chaosrings-main-c188y5.streamlitapp.com/
+
+It's simple to use:
+1. Upload the two images - regular avatar and an overlay (the rings)
+2. Preview the image
+3. Click the download button (or long/right click on the preview image) to save it
+Notes: the order of the images is important - first the avatar, second the overlay. The overlay image file should support transparency, like a .png

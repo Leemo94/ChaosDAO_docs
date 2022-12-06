@@ -17,9 +17,10 @@ ChaosDAO's primary revenue sources are from running collators on various Dotsama
 
 * HydraDX collator - 7PAE9wNX6GohpdbNHtu7XYEp3oq5GiXbNAGBm6mXin1AYn3y
 
-Currently the ChaosDAO accounts hold about $15k.
 
-For more details, see the ChaosDAO Treasury Accounts spreadsheet at:
+Currently the ChaosDAO accounts hold about $15k
+
+For more details, see the ChaosDAO Treasury Accounts spreadsheet
 
 
 

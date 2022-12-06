@@ -1,10 +1,10 @@
 ## Contributing
 
-Software Developers:
+### Software Developers:
 Use a fork and pull request, pls
 
 
-Non-software developers:
+### Non-software developers:
 You can edit the docs in this repo directly in the GitHub UI. Here's how:
 
 1) Fork the main repo into your user space
