@@ -2,27 +2,34 @@
 
 One of the most successful and unexpected parts of ChaosDAO has been the number of members who have been hired to project teams (maybe based on connections made within ChaosDAO?). We attempt to list them here:
 
-| Username      | Timeframe | Team Joined        | Approx. title |
-| ------------- | --------- | ------------------ | ------------- |
-| Yung Beef     | Summer'21 | Subsocial          | Community Manager and Content Manager  |
-| Marmite Toast | Sept'21   | Composable Finance | Head of Product Strategy  |
-| Mcbeaster     | Sept'21   | Composable Labs    | Project Manager  |
-| AirTx         | Sept'21   | Composable Labs    | Project Manager  |
-| HODL KANG     | Jan'22    | Composable Finance | Business Development  |
-| Leemo         | Oct'22    | Nova Wallet        | Product Manager?  |
-| Alice_und_Bob | Nov'21    | Mangata Finance    | Community Manager and PR  |
-| Crane         | Oct'22    | Kusamarian         | Technical Writer  |
-| Birdo         | Nov'22    | Parity             | Ecosystem Success Team  |
-| ThePhunky1    | Nov'22    | Lucky Friday       | Chief Charity Officer  |
+| Username      | Timeframe         | Team Joined        | Approx. title                    |
+| ------------- | ----------------- | ------------------ | -------------------------------- |
+| Yung Beef     | Aug'21            | Subsocial          | Content Lead & Community Manager |
+| Cris_Pap      | Sept'21           | Solarbeam          | Operations, Content Lead & R&D   |
+| Marmite Toast | Sept'21           | Composable Finance | Head of Product Strategy         |
+| Mcbeaster     | Sept'21-Sept'22   | Composable Labs    | Project Manager                  |
+| AirTx         | Sept'21-Sept'22   | Composable Labs    | Project Manager                  |
+| Alice_und_Bob | Nov'21            | Mangata Finance    | Community Manager and PR         |
+| 0xTaylor      | Nov'21            | everyone           | security auditor                 |
+| HODL KANG     | Jan'22-Aug'22     | Composable Finance | Business Development             |
+| Kodeist       | June'22           | Parity             | Developer                        |
+| jakerumbles   | July'22-Nov'22    | InvArch            | Developer                        |
+| Leemo         | Oct'22            | Nova Wallet        | Product Manager?                 |
+| Crane         | Oct'22            | Kusamarian         | Technical Writer                 |
+| Crane         | Nov'22            | Logion             | Tokenomics Analyst               |
+| Birdo         | Nov'22            | Parity             | Ecosystem Success Team           |
+| ThePhunky1    | Nov'22            | Lucky Friday       | Director of Fellowship and Protocol Relations |
+
 
 In addition, the following project teams may have been incubated due to relationships within ChaosDAO:
 
-* GM Parachain
-* Tricky NFTs
-* Metamorph NFTs
-* Chaos Collective music
-* Elements of Kusama
-* Dotsama Experience
+* [apeXchimpz](https://twitter.com/apeXchimpz)
+* [Chaos Collective music](https://twitter.com/chaoscollective)
+* [Dotsama Experience](https://twitter.com/theDOTexhibits)
+* [Elements of Kusama](https://twitter.com/ElementsKusama)
+* [GM Parachain](https://twitter.com/GmOrDie_)
+* [Metamorph NFTs](https://twitter.com/MetamorphNFT)
+* [Tricky NFTs](https://twitter.com/Tricky_NFTs)
 
 
 

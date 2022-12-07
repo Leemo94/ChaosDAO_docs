@@ -1,7 +1,7 @@
 # History of ChaosDAO
 
 In the sprint of 2021, Alice_und_Bob thought it would be a cool idea to gather together several people in the Polkadot ecosystem who were very active on social media, specifically Twitter and YouTube.
-He created the ChaosDAO Discord server, originally named ____ and then began inviting specific individuals via Twitter DMs.
+He created the ChaosDAO Discord server and then began inviting specific individuals via Twitter DMs.
 
 Discussions in the server originally revolved around NFT art collections and Kusama parachain crowdloans which started in June 2021. One area of interest that never came to fruition was decentralized on-chain governance. However, a basic hierarchy of positions was created for Frens, Regulars, and DAOists, with DAOists managing CD server governance via emoji voting within the Discord server.
 
