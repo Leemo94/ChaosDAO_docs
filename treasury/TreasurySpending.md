@@ -16,7 +16,7 @@ Some general guidelines to follow:
 
 ### Expenditures from the ChaosDAO treasury so far:
 * In Jan'22, DAOists approved sending half of our small MOVR treasury to the SuperColony "Ukranian Humanitarian Fund". About $1.6k (20 MOVR)
-* In Nov'22, we created DOT and KSM "Nomination Pools" to support independent community-focused valiators. Used ~2 KSM and 225 DOT (out of ~650 DOT earned by the Interlay vault). We think this will show important public community leadership.
+* In Nov'22, we created DOT and KSM "Nomination Pools" to support independent community-focused validators, using ~2 KSM and 225 DOT (out of ~650 DOT earned by the Interlay vault). We think this will show important public community leadership.
 
 ### Previously Rejected Proposals:
 So far the following types of expenditures have not been accepted:

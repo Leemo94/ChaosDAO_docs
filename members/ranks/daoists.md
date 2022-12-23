@@ -10,7 +10,7 @@ DAOists are selected from the most active ChaosDAO members who have demonstrated
 
 There are currently between 18-23 DAOists who form the governing body of ChaosDAO.
 
-While many aspects of governance is now being opened up to include both DAOists and Regulars, some sensitive topics will still be reserved for DAOist discussion and voting only.
+While many aspects of governance are now being opened up to include both DAOists and Regulars, some sensitive topics will still be reserved for DAOist discussion and voting only.
 
 
 
