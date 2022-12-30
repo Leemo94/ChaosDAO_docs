@@ -20,7 +20,7 @@ This lengthy video from Leemo explains OpenGov and shows how to generate and sub
     * A list of OpenGov governance tracks is available here: https://docs.google.com/spreadsheets/d/1DlJcS3vhqQ8sjCD7UsLsboWN962s4qWkrtzWz7rQke8/edit#gid=0
   * For `AccountId` use `DCZyhphXsRLcW84G9WmWEXtAA8DKGtVGSFZLJYty8Ajjyfa` which has identity "ChaosDAO_Referendum_Commission"
 
-  ![Polkadot.js convictionVoting->delegate extrinsic](images/PolkadotJS_ConvictionVoting_Delegate_Extrinsic.png)
+  ![Polkadot.js convictionVoting->delegate extrinsic](../.gitbook/assets/Screenshot_ConvictionVoting_Delegate_Extrinsic.png)
 
 ### To delegate voting for "Gov1" referendums which use the older extrinsics:
 * Submit the `democracy->delegate(to, conviction, balance)` extrinsic
@@ -36,7 +36,7 @@ Note that CD "Frens" cannot currently see or participate in the internal "OpenGo
 
 ## Voting Proxy Account Technical Details:
 
-![ChaosDAO OpenGov Account Structure](images/CD_OpenGov_AcctStructure.png)
+![ChaosDAO OpenGov Account Structure](../.gitbook/assets/CD_OpenGov_AcctStructure.png)
 
 We use multi-signature accounts to vote with so that no rogue individual could vote without consensus amongst our diverse membership. But within a volunteer organization, gathering signatures for a multisig tx can be frustrating. How can we make it future proof allowing signatories to change while making frequent multisig votes quick and painless?
 
