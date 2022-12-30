@@ -1,6 +1,6 @@
 # ChaosDAO Members Hired
 
-One of the most successful and unexpected parts of ChaosDAO has been the number of members who have been hired to project teams (maybe based on connections made within ChaosDAO?). We attempt to list them here:
+One of the most unexpectedly successful parts of ChaosDAO has been the number of members who have been hired to project teams (maybe based on connections made within ChaosDAO?). We attempt to list them here:
 
 | Username      | Timeframe         | Team Joined        | Approx. title                    |
 | ------------- | ----------------- | ------------------ | -------------------------------- |
@@ -14,7 +14,9 @@ One of the most successful and unexpected parts of ChaosDAO has been the number 
 | HODL KANG     | Jan'22-Aug'22     | Composable Finance | Business Development             |
 | Kodeist       | June'22           | Parity             | Developer                        |
 | jakerumbles   | July'22-Nov'22    | InvArch            | Developer                        |
-| Leemo         | Oct'22            | Nova Wallet        | Product Manager?                 |
+| Leemo         | June'21           | Robonomics         | content, marketing, community, partnerships        |
+| Leemo         | June'22           | GMorDie            | GM Intern  (co-founder)          |
+| Leemo         | Oct'22            | Nova Wallet        | Chief Nice Officer (content, community, marketing) |
 | Crane         | Oct'22            | Kusamarian         | Technical Writer                 |
 | Crane         | Nov'22            | Logion             | Tokenomics Analyst               |
 | Birdo         | Nov'22            | Parity             | Ecosystem Success Team           |
