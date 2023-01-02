@@ -2,4 +2,4 @@
 
 After verifying the transaction is correct...
 
-![](../.gitbook/assets/Screenshot\_20211020\_034158.png)
+![](../.gitbook/assets/Screenshot_20211020_034158.png)

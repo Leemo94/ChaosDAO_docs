@@ -10,23 +10,23 @@
   * [DAOists](members/ranks/daoists.md)
   * [Regulars](members/ranks/regulars.md)
   * [Frens](members/ranks/frens.md)
+  * [PromotionsAndDemotions](members/ranks/PromotionsAndDemotions.md)
 * [Roles](members/roles/README.md)
-  * [NFT Artists](members/roles/nft-artists.md)
-  * [Youtubers](members/roles/youtubers.md)
-  * [Validators](members/roles/validators.md)
+  * [DAOerRanger](members/roles/DAOerRanger.md)
   * [Developers](members/roles/developers.md)
+  * [NFT Artists](members/roles/nft-artists.md)
+  * [PR team](members/roles/PR-team.md)
+  * [Scout](members/roles/Scout.md)
+  * [Validators](members/roles/validators.md)
+  * [Youtubers](members/roles/youtubers.md)
 
-## Voting
+## Governance
 
-* [Eligibility](voting/eligibility.md)
-* [Procedure](voting/procedure.md)
-
-## Proposals
-
-* [Types of Proposals](proposals/types-of-proposals.md)
-* [Valid Proposals](proposals/valid-proposals.md)
-* [Who Can Make Proposals](proposals/who-can-make-proposals.md)
-* [Proposal Submission](proposals/proposal-submission.md)
+* [ChaosDAOInternalProposals](governance/ChaosDAOInternalProposals.md)
+* [NominationPools](governance/NominationPools.md)
+* [OpenGov](governance/OpenGov.md)
+* [SnapshotVoting](governance/SnapshotVoting.md)
+* [Who Can Make Proposals](governance/who-can-make-proposals.md)
 
 ## Multisig Transactions
 
@@ -34,6 +34,18 @@
 * [Verifying A Transaction](multisig-transactions/verifying-a-transaction.md)
 * [Approving A Transaction](multisig-transactions/approving-a-transaction.md)
 
+## Treasury
+
+* [Collators](treasury/Collators.md)
+* [RevenueSources](treasury/RevenueSources.md)
+* [TreasurySpending](treasury/TreasurySpending.md)
+
 ## The Citadel
 
+* [ChannelStructure](the-citadel/ChannelStructure.md)
 * [Jail](the-citadel/jail.md)
+
+## History
+
+* [ChaosDAOHistory](history/ChaosDAOHistory.md)
+* [MembersHired](history/MembersHired.md)

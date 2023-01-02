@@ -1,3 +1,3 @@
 # Manifesto
 
-![](<.gitbook/assets/Screenshot\_20211012-110910\_Chrome (1) (1).jpg>)
+![manifesto](<.gitbook/assets/Screenshot_20211012-110910_Chrome.jpg>)
