@@ -30,7 +30,7 @@ This lengthy video from Leemo explains OpenGov and shows how to generate and sub
 ## ChaosDAO Internal Decision Process:
 1) OpenGov team migrates on-chain referenda to ChaosDAO's internal "OpenGov" forum in Discord.
 2) Internal vote is open for 2 days and both DAOists and Regulars can discuss and vote internally on referenda with equal weight. One person == one vote.
-3) After the 2 days have passed, if 67% or more of the votes are for Aye or Nay, the OpenGov team will reflect this on chain with a CD multisig vote. If neither Aye nor Nay receive 67% then the ChaosDAO multisig will vote "Abstain" on-chain.
+3) After the 2 days have passed, if 67% or more of the votes are for Aye or Nay, the OpenGov team will reflect this on-chain with a CD multisig vote. If neither Aye nor Nay receive 67% then the ChaosDAO multisig will vote "Abstain" on-chain.
 
 Note that CD "Frens" cannot currently see or participate in the internal "OpenGov" discusssions and votes which began 2022-12-03. But it has been discussed that Frens may be granted read-only visibility to the internal OpenGov discussion and voting process in the future.
 

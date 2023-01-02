@@ -1,11 +1,11 @@
 # History of ChaosDAO
 
 In the spring of 2021, Alice_und_Bob thought it would be a cool idea to gather together several people in the Polkadot ecosystem who were very active on social media, specifically Twitter and YouTube.
-He created the ChaosDAO Discord server and then began inviting specific individuals via Twitter DMs.
+He created the ChaosDAO Discord server on 2021-07-13 and then began inviting specific individuals via Twitter DMs.
 
 Discussions in the server originally revolved around NFT art collections and Kusama parachain crowdloans which started in June 2021. One area of interest that never came to fruition was decentralized on-chain governance. However, a basic hierarchy of positions was created for Frens, Regulars, and DAOists, with DAOists managing CD server governance via emoji voting within the Discord server.
 
-In July 2021, Moon Bearer released his “ChaosDAO Apes” NFT collection, issuing a specialized NFT for each of the initial members of the CD server. Sort of out of jest, they agreed that anyone holding one of the ChaosDAO Apes would be granted access to the CD server (around 26 had been created so far, with a limit of 99 on the collection). One of the big draws of purchasing one of the apes was access to the “alpha” or insightful research and discussions of members within ChaosDAO.
+On 2021-08-13, Moon Bearer released his “ChaosDAO Apes” NFT collection, issuing a specialized NFT for each of the initial members of the CD server. Sort of out of jest, they agreed that anyone holding one of the ChaosDAO Apes would be granted access to the CD server (around 26 had been created so far, with a limit of 99 on the collection). One of the big draws of purchasing one of the apes became access to the “alpha” or insightful research and discussions of members within ChaosDAO.
 
 During this time, CD members targeted inviting NFT artists (from RMRK’s Singular platform), very active Polkadot enthusiasts on social media, and developers like parachain project team members. As a result, ChaosDAO ended up becoming a curated private discord discussion forum with a mix of developers, shit posters, and investors (who bought their way in via the Apes).
 

@@ -1,9 +1,9 @@
 # Internal ChaosDAO Governance Procedures
 
 ## How to Propose?
-Generally, proposals often need some initial discussion to clarify specific proposal parameters. In those cases, DAOists should first introduce proposal topics in a new #daist-forum discussion thread. Some quick single-parameter votes can be held, even including multiple options for people to vote between. That provides insight into what exactly the proposal should include.
+Generally, proposals often need some initial discussion to clarify specific proposal parameters. In those cases, DAOists should first introduce proposal topics in a new #int-gov-discussion thread. Some quick single-parameter votes can be held, even including multiple options for people to vote between. That provides insight into what exactly the proposal should include.
 
-Once the details of a proposal are finalized, a DAOist should make a new post in the #proposals forum with only a single up/down vote (like for on-chain referenda).
+Once the details of a proposal are finalized, a DAOist should make a new post in the #int-gov-proposals forum with only a single up/down vote (like for on-chain referenda).
 
 ## How to Vote
 Voters use emojis (usually thumbs up/down) to vote on a proposal.
