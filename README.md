@@ -1,3 +1,3 @@
 # Manifesto
 
-![manifesto](<.gitbook/assets/Screenshot_20211012-110910_Chrome.jpg>)
+![manifesto](<.gitbook/assets/ChaosDAO_Manifesto.jpg>)
