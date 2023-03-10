@@ -29,7 +29,7 @@ Each type of track likely should have a different voting period, and possibly di
 
 General internal governance discussion takes place in the #int-gov-general-chat channel. There you can spitball ideas, shitpost, and get your complaints out.
 
-Once a specific proposal is ready for targeted discussion and refinement of specific proposal parameters, proposers should introduce the topic in a new #int-gov-discussion forum thread. Some quick single-parameter votes can be held to gather information, even including multiple options for people to vote between. That provides insight into what exactly the single official proposal should include. This phase is important to avoid people suggesting modifications to an official proposal, since we don't want to change the contents of an official proposla once people have already begun voting on it.
+Once a specific proposal is ready for targeted discussion and refinement of specific proposal parameters, proposers should introduce the topic in a new #int-gov-discussion forum thread. Some quick single-parameter votes can be held to gather information, even including multiple options for people to vote between. That provides insight into what exactly the single official proposal should include. This phase is important to avoid people suggesting modifications to an official proposal, since we don't want to change the contents of an official proposal once people have already begun voting on it.
 
 Once the details of a proposal are finalized, a member in good standing (not in jail) with rights to propose and vote on the topic (according to its track) should introduce it as a new post in the #int-gov-proposals forum with only a single up/down/abstain vote (like for on-chain referenda). These are official proposals that will be enacted if successful.
 
@@ -43,7 +43,7 @@ Within the dedicated “INT GOVERNANCE” category within the ChaosDAO Discord s
   * Frens are able to comment on discussions also. (If they are active and constructive enough, they might get promoted to Regular so that they can vote.)
 * **int-gov-proposals** (forum style)
   * This is used to raise a vote / referendum about internal governance issues in tracks that both Regulars and DAOists can vote on.
-  * All referenda should be fully detailed and include a detailed implementation/action plan. DAOists are allowed to veo or remove any referendum which does not satisfy this.
+  * All referenda should be fully detailed and include a detailed implementation/action plan. DAOists are allowed to veto or remove any referendum which does not satisfy this, but must provide reasoning as to why it was veto'd / removed.
   * Frens are not able to view the proposal forum simply because the Discord implementation does not prevent people from adding to emojis that have already been made. In the future, if we implement a role-based voting bot in the server, this might be possible because the bot will enforce emoji voting permissions based on role.
 * **int-daoist-proposals** (forum style)
   * This is used to raise a vote / referendum about internal governance issues in tracks that only DAOists can vote on. Not visible to Regular and Frens (mostly so that they can’t emoji vote).
