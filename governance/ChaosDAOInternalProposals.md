@@ -35,6 +35,11 @@ Once the details of a proposal are finalized, a member in good standing (not in 
 
 Within the dedicated “INT GOVERNANCE” category within the ChaosDAO Discord server are the following channels:
 * **invite-proposals**
+  * People can propose people to be invited into ChaosDAO
+  * DAOists and Regulars can read/write/react
+* **talent-scout**
+  * Talent Scouts debate and vote on each invite.
+  * Only Talent Scouts (and Rangers) can read/write/react
 * **int-gov-general-chat**
   * A place for less structured chat about internal governance
   * Frens can read/write here
