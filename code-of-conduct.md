@@ -12,6 +12,9 @@ ChaosDAO is a “multi-ape protocol” comprised of members who support, promote
 
 * Sharing images / video from IRL meetups - There are times where our members may meet up in-real-life (IRL). This may occur at general crypto / technology events, or at ChaosDAO specific events. Members should not share any photos / videos of these events without the permission of those within that media. Someone simply being part of a photo does not mean they wish that photo to be shared online.These images contain identifying information of members who may be pseudonymous in their external (outside of ChaosDAO) public represenation. This media may contain information which can be used to identify those members.
 
+* Conflict of Interest - If there is a convincing argument on a breach of COI on a specific ref, the DAO should investigate by checking the cast votes privately by two DAOists.
+1. If a COI has been identified but the vote(s) doesn't change the outcome of the ref, the member should get a warning and jail time for a week.
+2. If a COI has identified on a referendum and the vote (or one of the votes in case there are multiple people cast decisive votes) is decisive on the outcome the member(s) should be stripped from all their roles and reduced to regular member status.
 
 Although ChaosDAO is not a place of employment and does not require many other elements of a typical Code of Conduct, this is not an exhaustive list. Should any member believe she or he has been unfairly targeted or treated by a fellow member, please report said behavior to a DAOist. If there is not a clear guideline in place, a proposal can be made to amend this section of our handbook. Below is a list of escalation actions for those who flagrantly flaunt ChaosDAO’s code of conduct. Ultimately, any and all actions will be handled by the core group of DAOists.
 
