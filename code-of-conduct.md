@@ -1,4 +1,21 @@
 # Code of Conduct
+ChaosDAO is comprised of members who support, promote, invest, and build projects within the Polkadot ecosystem. Each and every member of ChaosDAO has been invited due to the value that they bring, and all members in general should be treated with respect. Being a member of ChaosDAO is a privilege, regardless of rank, and membership can be withdrawn due to violations of this Code of Conduct. 
+
+In general, members should understand that everyone in ChaosDAO is an adult, and sometimes convosations can get a little bit heated, which is completely normal.
+It is not bullying, cyber-bullying or personal attacks for someone to have a different opinion to you and to state that you are incorrect.
+There will be times where friends are "bantering" which to outsiders may seem like someone is being bullied, but it is easy to understand that nothing bad is happening if you view it with social context taken into account.
+
+* Discrumination - any targetted discrimination
+
+TO DO LATER:
+FIX IT UP MORE
+MAKE IT OBVIOUS THAT ITS FINE TO BANTER 
+ADD PARTS ABOUT CONCERN TROLLING / PEOPLE INTENTIONALLY FANNING THE FLAMES
+
+
+
+
+
 
 ChaosDAO is a “multi-ape protocol” comprised of members who support, promote, invest, and build projects within the Dotsama ecosystem. Each and every member of ChaosDAO has been invited due to the value that they brings, and all members shall be treated with dignity and respect. Being a member within ChaosDAO is a privilege regardless of rank, and membership can be withdrawn due to violations of the Code of Conduct contained herein. Should any member violate these norms, they will be subject to escalating penalties, finalizing in removal from ChaosDAO.
 
